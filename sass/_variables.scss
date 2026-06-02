@@ -1,0 +1,35 @@
+// Tipografía
+$font-primary: "Montserrat", sans-serif;
+
+// Colores
+$color-primary: #054C73;
+$color-primary-dark: #03344F;
+$color-title: #333333;
+$color-text: #666666;
+$color-white: #ffffff;
+$color-light: #F2F5FF;
+$color-border: #D7D6D6;
+
+// Anchos
+$container-width: 1200px;
+$container-small-width: 500px;
+
+// Tamaños de fuente
+$font-size-h2: 32px;
+$font-size-h3: 24px;
+$font-size-p: 20px;
+$font-size-small: 16px;
+$font-size-nav: 14px;
+
+// Espaciados
+$space-xs: 6px;
+$space-sm: 20px;
+$space-md: 30px;
+$space-lg: 40px;
+$space-xl: 50px;
+$space-xxl: 60px;
+$space-section: 88px;
+
+// Bordes
+$border-default: 1px solid $color-border;
+$border-primary: 1px solid $color-primary;
