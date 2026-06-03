@@ -1,0 +1,7 @@
+@import 'sass/variables';
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(7, variables.$cell-size);
+    grid-template-rows: repeat(7, variables.$cell-size);
+}

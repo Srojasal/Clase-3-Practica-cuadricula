@@ -1,0 +1,13 @@
+/* public/css/styles.css */
+
+.container {
+  width: 800px;
+  display: grid;
+  grid-template-columns: repeat(8, 100px);
+  grid-template-rows: repeat(8, 100px);
+}
+
+.black {
+  background-color: #000;
+}
+/*# sourceMappingURL=styles.css.map */
